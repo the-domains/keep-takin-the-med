@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "​﻿Your English cultural ambassador, guide, advisor, counsellor andconscience (if you'll let us) for smart living & visiting in Mallorca & beyond."
-datePublished: '2016-03-21T17:23:20.339Z'
-dateModified: '2016-03-21T17:22:31.355Z'
+description: "​﻿Your English cultural ambassador, guide, advisor, counsellor and conscience (if you'll let us) for smart living & visiting in Mallorca & beyond."
+datePublished: '2016-03-21T17:29:16.205Z'
+dateModified: '2016-03-21T17:24:10.848Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-21-your-english-cultural-ambassador-guide-advisor-counsell.md

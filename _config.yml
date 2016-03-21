@@ -1,6 +1,6 @@
 name: "Keep Takin' The Med"
 favicon: null
-layout_spectrum: 0.98929
+layout_spectrum: 0.99501
 typography_spectrum: 0.24003
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#ff0000'
     - '#fdfdfd'
     - '#00ffff'
-  brandStrength: 0
-  lightness: 0.2453186851926148
-  saturation: 0.8838067436590791
-  rhythmicContrast: 0.8247533394023776
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
